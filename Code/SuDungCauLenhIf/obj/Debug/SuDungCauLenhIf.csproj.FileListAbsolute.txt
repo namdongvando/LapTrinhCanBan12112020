@@ -1,0 +1,7 @@
+C:\Users\NN\Desktop\Share\LapTrinhCanBan\LapTrinhCanBan\LapTrinhCanBan12112020\Code\SuDungCauLenhIf\bin\Debug\SuDungCauLenhIf.exe.config
+C:\Users\NN\Desktop\Share\LapTrinhCanBan\LapTrinhCanBan\LapTrinhCanBan12112020\Code\SuDungCauLenhIf\bin\Debug\SuDungCauLenhIf.exe
+C:\Users\NN\Desktop\Share\LapTrinhCanBan\LapTrinhCanBan\LapTrinhCanBan12112020\Code\SuDungCauLenhIf\bin\Debug\SuDungCauLenhIf.pdb
+C:\Users\NN\Desktop\Share\LapTrinhCanBan\LapTrinhCanBan\LapTrinhCanBan12112020\Code\SuDungCauLenhIf\obj\Debug\SuDungCauLenhIf.csprojAssemblyReference.cache
+C:\Users\NN\Desktop\Share\LapTrinhCanBan\LapTrinhCanBan\LapTrinhCanBan12112020\Code\SuDungCauLenhIf\obj\Debug\SuDungCauLenhIf.csproj.CoreCompileInputs.cache
+C:\Users\NN\Desktop\Share\LapTrinhCanBan\LapTrinhCanBan\LapTrinhCanBan12112020\Code\SuDungCauLenhIf\obj\Debug\SuDungCauLenhIf.exe
+C:\Users\NN\Desktop\Share\LapTrinhCanBan\LapTrinhCanBan\LapTrinhCanBan12112020\Code\SuDungCauLenhIf\obj\Debug\SuDungCauLenhIf.pdb
