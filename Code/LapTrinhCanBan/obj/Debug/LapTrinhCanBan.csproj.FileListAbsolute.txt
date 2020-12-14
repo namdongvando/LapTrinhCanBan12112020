@@ -20,3 +20,14 @@ C:\Users\NN\Desktop\Share\LapTrinhCanBan\LapTrinhCanBan\LapTrinhCanBan12112020\C
 C:\Users\NN\Desktop\Share\LapTrinhCanBan\LapTrinhCanBan\LapTrinhCanBan12112020\Code\LapTrinhCanBan\obj\Debug\LapTrinhCanBan.application
 C:\Users\NN\Desktop\Share\LapTrinhCanBan\LapTrinhCanBan\LapTrinhCanBan12112020\Code\LapTrinhCanBan\obj\Debug\LapTrinhCanBan.exe
 C:\Users\NN\Desktop\Share\LapTrinhCanBan\LapTrinhCanBan\LapTrinhCanBan12112020\Code\LapTrinhCanBan\obj\Debug\LapTrinhCanBan.pdb
+C:\Users\NN\Desktop\Share\LapTrinhCanBan12112020\Code\LapTrinhCanBan\bin\Debug\LapTrinhCanBan.exe.config
+C:\Users\NN\Desktop\Share\LapTrinhCanBan12112020\Code\LapTrinhCanBan\bin\Debug\LapTrinhCanBan.exe.manifest
+C:\Users\NN\Desktop\Share\LapTrinhCanBan12112020\Code\LapTrinhCanBan\bin\Debug\LapTrinhCanBan.application
+C:\Users\NN\Desktop\Share\LapTrinhCanBan12112020\Code\LapTrinhCanBan\bin\Debug\LapTrinhCanBan.exe
+C:\Users\NN\Desktop\Share\LapTrinhCanBan12112020\Code\LapTrinhCanBan\bin\Debug\LapTrinhCanBan.pdb
+C:\Users\NN\Desktop\Share\LapTrinhCanBan12112020\Code\LapTrinhCanBan\obj\Debug\LapTrinhCanBan.csprojAssemblyReference.cache
+C:\Users\NN\Desktop\Share\LapTrinhCanBan12112020\Code\LapTrinhCanBan\obj\Debug\LapTrinhCanBan.csproj.CoreCompileInputs.cache
+C:\Users\NN\Desktop\Share\LapTrinhCanBan12112020\Code\LapTrinhCanBan\obj\Debug\LapTrinhCanBan.exe.manifest
+C:\Users\NN\Desktop\Share\LapTrinhCanBan12112020\Code\LapTrinhCanBan\obj\Debug\LapTrinhCanBan.application
+C:\Users\NN\Desktop\Share\LapTrinhCanBan12112020\Code\LapTrinhCanBan\obj\Debug\LapTrinhCanBan.exe
+C:\Users\NN\Desktop\Share\LapTrinhCanBan12112020\Code\LapTrinhCanBan\obj\Debug\LapTrinhCanBan.pdb

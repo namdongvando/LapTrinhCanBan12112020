@@ -5,3 +5,10 @@ C:\Users\NN\Desktop\Share\LapTrinhCanBan\LapTrinhCanBan\LapTrinhCanBan12112020\C
 C:\Users\NN\Desktop\Share\LapTrinhCanBan\LapTrinhCanBan\LapTrinhCanBan12112020\Code\XepLoaiHocSinh\obj\Debug\XepLoaiHocSinh.csproj.CoreCompileInputs.cache
 C:\Users\NN\Desktop\Share\LapTrinhCanBan\LapTrinhCanBan\LapTrinhCanBan12112020\Code\XepLoaiHocSinh\obj\Debug\XepLoaiHocSinh.exe
 C:\Users\NN\Desktop\Share\LapTrinhCanBan\LapTrinhCanBan\LapTrinhCanBan12112020\Code\XepLoaiHocSinh\obj\Debug\XepLoaiHocSinh.pdb
+C:\Users\NN\Desktop\Share\LapTrinhCanBan12112020\Code\XepLoaiHocSinh\bin\Debug\XepLoaiHocSinh.exe.config
+C:\Users\NN\Desktop\Share\LapTrinhCanBan12112020\Code\XepLoaiHocSinh\bin\Debug\XepLoaiHocSinh.exe
+C:\Users\NN\Desktop\Share\LapTrinhCanBan12112020\Code\XepLoaiHocSinh\bin\Debug\XepLoaiHocSinh.pdb
+C:\Users\NN\Desktop\Share\LapTrinhCanBan12112020\Code\XepLoaiHocSinh\obj\Debug\XepLoaiHocSinh.csprojAssemblyReference.cache
+C:\Users\NN\Desktop\Share\LapTrinhCanBan12112020\Code\XepLoaiHocSinh\obj\Debug\XepLoaiHocSinh.csproj.CoreCompileInputs.cache
+C:\Users\NN\Desktop\Share\LapTrinhCanBan12112020\Code\XepLoaiHocSinh\obj\Debug\XepLoaiHocSinh.exe
+C:\Users\NN\Desktop\Share\LapTrinhCanBan12112020\Code\XepLoaiHocSinh\obj\Debug\XepLoaiHocSinh.pdb

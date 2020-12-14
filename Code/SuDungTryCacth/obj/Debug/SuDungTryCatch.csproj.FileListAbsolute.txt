@@ -5,3 +5,10 @@ C:\Users\NN\Desktop\Share\LapTrinhCanBan\LapTrinhCanBan\LapTrinhCanBan12112020\C
 C:\Users\NN\Desktop\Share\LapTrinhCanBan\LapTrinhCanBan\LapTrinhCanBan12112020\Code\SuDungTryCacth\obj\Debug\SuDungTryCatch.csproj.CoreCompileInputs.cache
 C:\Users\NN\Desktop\Share\LapTrinhCanBan\LapTrinhCanBan\LapTrinhCanBan12112020\Code\SuDungTryCacth\obj\Debug\SuDungTryCacth.exe
 C:\Users\NN\Desktop\Share\LapTrinhCanBan\LapTrinhCanBan\LapTrinhCanBan12112020\Code\SuDungTryCacth\obj\Debug\SuDungTryCacth.pdb
+C:\Users\NN\Desktop\Share\LapTrinhCanBan12112020\Code\SuDungTryCacth\bin\Debug\SuDungTryCacth.exe.config
+C:\Users\NN\Desktop\Share\LapTrinhCanBan12112020\Code\SuDungTryCacth\bin\Debug\SuDungTryCacth.exe
+C:\Users\NN\Desktop\Share\LapTrinhCanBan12112020\Code\SuDungTryCacth\bin\Debug\SuDungTryCacth.pdb
+C:\Users\NN\Desktop\Share\LapTrinhCanBan12112020\Code\SuDungTryCacth\obj\Debug\SuDungTryCatch.csprojAssemblyReference.cache
+C:\Users\NN\Desktop\Share\LapTrinhCanBan12112020\Code\SuDungTryCacth\obj\Debug\SuDungTryCatch.csproj.CoreCompileInputs.cache
+C:\Users\NN\Desktop\Share\LapTrinhCanBan12112020\Code\SuDungTryCacth\obj\Debug\SuDungTryCacth.exe
+C:\Users\NN\Desktop\Share\LapTrinhCanBan12112020\Code\SuDungTryCacth\obj\Debug\SuDungTryCacth.pdb

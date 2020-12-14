@@ -17,6 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuDungTryCatch", "SuDungTry
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XepLoaiHocSinh", "XepLoaiHocSinh\XepLoaiHocSinh.csproj", "{50D7309B-7F3D-4DFC-B7EE-31E0454DD4E2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuDungVongLapFor", "SuDungVongLapFor\SuDungVongLapFor.csproj", "{BCDA6265-7666-4D2C-9C7B-DFC528153F4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuDungHam", "SuDungHam\SuDungHam.csproj", "{008881C6-D9C9-44DE-85E7-8B460AD15ADE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +55,14 @@ Global
 		{50D7309B-7F3D-4DFC-B7EE-31E0454DD4E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{50D7309B-7F3D-4DFC-B7EE-31E0454DD4E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{50D7309B-7F3D-4DFC-B7EE-31E0454DD4E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCDA6265-7666-4D2C-9C7B-DFC528153F4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCDA6265-7666-4D2C-9C7B-DFC528153F4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCDA6265-7666-4D2C-9C7B-DFC528153F4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCDA6265-7666-4D2C-9C7B-DFC528153F4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{008881C6-D9C9-44DE-85E7-8B460AD15ADE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{008881C6-D9C9-44DE-85E7-8B460AD15ADE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{008881C6-D9C9-44DE-85E7-8B460AD15ADE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{008881C6-D9C9-44DE-85E7-8B460AD15ADE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
