@@ -13,7 +13,19 @@ namespace SuDungHam
             int a = NhapSoNguyen("Nhap So Nguyen a");
             int b = NhapSoNguyen("Nhap So Nguyen b");
             int c = NhapSoNguyen("Nhap So Nguyen c");
-            //int max = TimSoLonNhat(a, b, c);
+            int max = TimSoLonNhat(a, b, c);
+            Console.WriteLine(max);
+        }
+
+        private static int TimSoLonNhat(int a, int b, int c)
+        {
+            int max = a;
+            if (max < b)
+                max = b;
+            if (max < c)
+                max = c;
+            return max;
+
         }
 
         private static int NhapSoNguyen(string thongBao)

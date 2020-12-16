@@ -1,0 +1,7 @@
+C:\Users\NN\Desktop\Share\LapTrinhCanBan12112020\Code\SuDungHamTT\bin\Debug\SuDungHamTT.exe.config
+C:\Users\NN\Desktop\Share\LapTrinhCanBan12112020\Code\SuDungHamTT\bin\Debug\SuDungHamTT.exe
+C:\Users\NN\Desktop\Share\LapTrinhCanBan12112020\Code\SuDungHamTT\bin\Debug\SuDungHamTT.pdb
+C:\Users\NN\Desktop\Share\LapTrinhCanBan12112020\Code\SuDungHamTT\obj\Debug\SuDungHamTT.csprojAssemblyReference.cache
+C:\Users\NN\Desktop\Share\LapTrinhCanBan12112020\Code\SuDungHamTT\obj\Debug\SuDungHamTT.csproj.CoreCompileInputs.cache
+C:\Users\NN\Desktop\Share\LapTrinhCanBan12112020\Code\SuDungHamTT\obj\Debug\SuDungHamTT.exe
+C:\Users\NN\Desktop\Share\LapTrinhCanBan12112020\Code\SuDungHamTT\obj\Debug\SuDungHamTT.pdb
