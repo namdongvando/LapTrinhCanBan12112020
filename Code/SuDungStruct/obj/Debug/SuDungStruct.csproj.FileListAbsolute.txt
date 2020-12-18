@@ -1,0 +1,7 @@
+C:\Users\NN\Desktop\Share\LapTrinhCanBan12112020\Code\SuDungStruct\bin\Debug\SuDungStruct.exe.config
+C:\Users\NN\Desktop\Share\LapTrinhCanBan12112020\Code\SuDungStruct\bin\Debug\SuDungStruct.exe
+C:\Users\NN\Desktop\Share\LapTrinhCanBan12112020\Code\SuDungStruct\bin\Debug\SuDungStruct.pdb
+C:\Users\NN\Desktop\Share\LapTrinhCanBan12112020\Code\SuDungStruct\obj\Debug\SuDungStruct.csprojAssemblyReference.cache
+C:\Users\NN\Desktop\Share\LapTrinhCanBan12112020\Code\SuDungStruct\obj\Debug\SuDungStruct.csproj.CoreCompileInputs.cache
+C:\Users\NN\Desktop\Share\LapTrinhCanBan12112020\Code\SuDungStruct\obj\Debug\SuDungStruct.exe
+C:\Users\NN\Desktop\Share\LapTrinhCanBan12112020\Code\SuDungStruct\obj\Debug\SuDungStruct.pdb

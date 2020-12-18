@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace SuDungHamTT
 {
-    struct SinhVien{
+    struct SinhVien
+    {
         public string MaSinhVien { get; set; }
         public string TenSinhVien { get; set; }
         public string SDT { get; set; }
@@ -14,23 +15,51 @@ namespace SuDungHamTT
         public string DiaChi { get; set; }
         public string CMND { get; set; }
     }
+    struct PhuongTrinhBac1
+    {
+        public double soa { get; set; }
+        public double sob { get; set; }
 
+        public double GiaiPhuongTrinh() {
+            if (soa == 0)
+                if (sob == 0)
+                    throw new Exception("PT VSN");
+                else
+                    throw new Exception("PT VN");
+
+            return -sob / soa;
+        }
+
+    }
     class Program
     {
         static void Main(string[] args)
         {
-            SinhVien teo = new SinhVien()
+            try
             {
-                MaSinhVien = "001",
-                TenSinhVien = "Teo Nguyen",
-                CMND = "0123456789",
-                DiaChi = "HCM",
-                NgaySinh = new DateTime(2000, 1, 1),
-                SDT = "09000001"
-            };
-            Console.WriteLine(teo.TenSinhVien);
+                PhuongTrinhBac1 PT1 = new PhuongTrinhBac1();
+                PT1.soa = 0;
+                PT1.sob = 2;
+                double kq = PT1.GiaiPhuongTrinh();
+                Console.WriteLine(kq);
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.Message);
+            }
+            
+            //SinhVien teo = new SinhVien()
+            //{
+            //    MaSinhVien = "001",
+            //    TenSinhVien = "Teo Nguyen",
+            //    CMND = "0123456789",
+            //    DiaChi = "HCM",
+            //    NgaySinh = new DateTime(2000, 1, 1),
+            //    SDT = "09000001"
+            //};
+            //Console.WriteLine(teo.TenSinhVien);
             // menu cua phan men
-           // Menu();
+            // Menu();
 
         }
 
@@ -101,7 +130,7 @@ namespace SuDungHamTT
             // nhap a, b
             int a = NhapSoNguyen("nhap so nguyen duong a");
             int b = NhapSoNguyen("nhap so nguyen duong b");
-            while(a*b > 0)
+            while (a * b > 0)
             {
                 if (a > b)
                     a = a % b;
