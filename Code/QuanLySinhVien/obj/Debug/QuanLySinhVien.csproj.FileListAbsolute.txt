@@ -1,0 +1,7 @@
+C:\Users\NN\Desktop\Share\LapTrinhCanBan12112020\Code\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe.config
+C:\Users\NN\Desktop\Share\LapTrinhCanBan12112020\Code\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe
+C:\Users\NN\Desktop\Share\LapTrinhCanBan12112020\Code\QuanLySinhVien\bin\Debug\QuanLySinhVien.pdb
+C:\Users\NN\Desktop\Share\LapTrinhCanBan12112020\Code\QuanLySinhVien\obj\Debug\QuanLySinhVien.csprojAssemblyReference.cache
+C:\Users\NN\Desktop\Share\LapTrinhCanBan12112020\Code\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.CoreCompileInputs.cache
+C:\Users\NN\Desktop\Share\LapTrinhCanBan12112020\Code\QuanLySinhVien\obj\Debug\QuanLySinhVien.exe
+C:\Users\NN\Desktop\Share\LapTrinhCanBan12112020\Code\QuanLySinhVien\obj\Debug\QuanLySinhVien.pdb
