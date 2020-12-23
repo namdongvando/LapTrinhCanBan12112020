@@ -1,0 +1,7 @@
+C:\Users\NN\Desktop\Share\LapTrinhCanBan12112020\Code\QuanLyHangHoa\bin\Debug\QuanLyHangHoa.exe.config
+C:\Users\NN\Desktop\Share\LapTrinhCanBan12112020\Code\QuanLyHangHoa\bin\Debug\QuanLyHangHoa.exe
+C:\Users\NN\Desktop\Share\LapTrinhCanBan12112020\Code\QuanLyHangHoa\bin\Debug\QuanLyHangHoa.pdb
+C:\Users\NN\Desktop\Share\LapTrinhCanBan12112020\Code\QuanLyHangHoa\obj\Debug\QuanLyHangHoa.csprojAssemblyReference.cache
+C:\Users\NN\Desktop\Share\LapTrinhCanBan12112020\Code\QuanLyHangHoa\obj\Debug\QuanLyHangHoa.csproj.CoreCompileInputs.cache
+C:\Users\NN\Desktop\Share\LapTrinhCanBan12112020\Code\QuanLyHangHoa\obj\Debug\QuanLyHangHoa.exe
+C:\Users\NN\Desktop\Share\LapTrinhCanBan12112020\Code\QuanLyHangHoa\obj\Debug\QuanLyHangHoa.pdb

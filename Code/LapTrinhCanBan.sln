@@ -27,6 +27,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuDungStruct", "SuDungStruc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuanLySinhVien", "QuanLySinhVien\QuanLySinhVien.csproj", "{BB3E96B4-397A-423F-8C7F-B6CC210D5D30}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuanLyHangHoa", "QuanLyHangHoa\QuanLyHangHoa.csproj", "{87E0A57B-0676-4760-A1BE-7BBCD28FA4A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinForm1", "WinForm1\WinForm1.csproj", "{A333649A-D50F-4E6E-AF3B-59EEBCE66E4F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +85,14 @@ Global
 		{BB3E96B4-397A-423F-8C7F-B6CC210D5D30}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BB3E96B4-397A-423F-8C7F-B6CC210D5D30}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BB3E96B4-397A-423F-8C7F-B6CC210D5D30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87E0A57B-0676-4760-A1BE-7BBCD28FA4A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87E0A57B-0676-4760-A1BE-7BBCD28FA4A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87E0A57B-0676-4760-A1BE-7BBCD28FA4A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87E0A57B-0676-4760-A1BE-7BBCD28FA4A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A333649A-D50F-4E6E-AF3B-59EEBCE66E4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A333649A-D50F-4E6E-AF3B-59EEBCE66E4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A333649A-D50F-4E6E-AF3B-59EEBCE66E4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A333649A-D50F-4E6E-AF3B-59EEBCE66E4F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

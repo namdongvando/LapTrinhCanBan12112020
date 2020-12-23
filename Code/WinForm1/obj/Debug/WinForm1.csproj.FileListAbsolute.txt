@@ -1,0 +1,12 @@
+C:\Users\NN\Desktop\Share\LapTrinhCanBan12112020\Code\WinForm1\bin\Debug\WinForm1.exe.config
+C:\Users\NN\Desktop\Share\LapTrinhCanBan12112020\Code\WinForm1\bin\Debug\WinForm1.exe
+C:\Users\NN\Desktop\Share\LapTrinhCanBan12112020\Code\WinForm1\bin\Debug\WinForm1.pdb
+C:\Users\NN\Desktop\Share\LapTrinhCanBan12112020\Code\WinForm1\obj\Debug\WinForm1.csprojAssemblyReference.cache
+C:\Users\NN\Desktop\Share\LapTrinhCanBan12112020\Code\WinForm1\obj\Debug\WinForm1.Properties.Resources.resources
+C:\Users\NN\Desktop\Share\LapTrinhCanBan12112020\Code\WinForm1\obj\Debug\WinForm1.csproj.GenerateResource.cache
+C:\Users\NN\Desktop\Share\LapTrinhCanBan12112020\Code\WinForm1\obj\Debug\WinForm1.csproj.CoreCompileInputs.cache
+C:\Users\NN\Desktop\Share\LapTrinhCanBan12112020\Code\WinForm1\obj\Debug\WinForm1.exe
+C:\Users\NN\Desktop\Share\LapTrinhCanBan12112020\Code\WinForm1\obj\Debug\WinForm1.pdb
+C:\Users\NN\Desktop\Share\LapTrinhCanBan12112020\Code\WinForm1\obj\Debug\WinForm1.Form1.resources
+C:\Users\NN\Desktop\Share\LapTrinhCanBan12112020\Code\WinForm1\obj\Debug\WinForm1.FormDangNhap.resources
+C:\Users\NN\Desktop\Share\LapTrinhCanBan12112020\Code\WinForm1\obj\Debug\WinForm1.FormTongHaiSo.resources
