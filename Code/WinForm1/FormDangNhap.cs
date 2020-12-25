@@ -21,5 +21,24 @@ namespace WinForm1
         {
 
         }
+
+        private void btnDangNhap_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                string taiKhoan = txtTaiKhoan.Text;
+                string matKhau = txtMatKhau.Text;
+                if (taiKhoan != "admin" || matKhau != "123456")
+                {
+                    throw new Exception("Tài khoản hoặc Mật khẩu không đúng");
+                }
+                this.DialogResult = DialogResult.OK;
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
+            
+        }
     }
 }

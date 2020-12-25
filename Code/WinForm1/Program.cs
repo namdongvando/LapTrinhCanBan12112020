@@ -16,7 +16,7 @@ namespace WinForm1
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FormTongHaiSo());
+            Application.Run(new FormMain());
         }
     }
 }

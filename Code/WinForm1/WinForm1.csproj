@@ -58,19 +58,50 @@
     <Compile Include="FormDangNhap.Designer.cs">
       <DependentUpon>FormDangNhap.cs</DependentUpon>
     </Compile>
+    <Compile Include="FormMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMain.Designer.cs">
+      <DependentUpon>FormMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormPhuongTrinhBac1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormPhuongTrinhBac1.Designer.cs">
+      <DependentUpon>FormPhuongTrinhBac1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormPhuongTrinhBac2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormPhuongTrinhBac2.Designer.cs">
+      <DependentUpon>FormPhuongTrinhBac2.cs</DependentUpon>
+    </Compile>
     <Compile Include="FormTongHaiSo.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="FormTongHaiSo.Designer.cs">
       <DependentUpon>FormTongHaiSo.cs</DependentUpon>
     </Compile>
+    <Compile Include="HinhVuong.cs" />
+    <Compile Include="IHInhHoc.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="PTB1.cs" />
+    <Compile Include="PTB2.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FormDangNhap.resx">
       <DependentUpon>FormDangNhap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMain.resx">
+      <DependentUpon>FormMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormPhuongTrinhBac1.resx">
+      <DependentUpon>FormPhuongTrinhBac1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormPhuongTrinhBac2.resx">
+      <DependentUpon>FormPhuongTrinhBac2.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FormTongHaiSo.resx">
       <DependentUpon>FormTongHaiSo.cs</DependentUpon>

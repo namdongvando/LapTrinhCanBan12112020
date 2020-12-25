@@ -41,7 +41,7 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(153, 41);
+            this.label1.Location = new System.Drawing.Point(39, 20);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(63, 17);
             this.label1.TabIndex = 0;
@@ -49,14 +49,14 @@
             // 
             // txtSoA
             // 
-            this.txtSoA.Location = new System.Drawing.Point(223, 36);
+            this.txtSoA.Location = new System.Drawing.Point(109, 15);
             this.txtSoA.Name = "txtSoA";
             this.txtSoA.Size = new System.Drawing.Size(194, 22);
             this.txtSoA.TabIndex = 1;
             // 
             // txtSoB
             // 
-            this.txtSoB.Location = new System.Drawing.Point(223, 77);
+            this.txtSoB.Location = new System.Drawing.Point(109, 56);
             this.txtSoB.Name = "txtSoB";
             this.txtSoB.Size = new System.Drawing.Size(194, 22);
             this.txtSoB.TabIndex = 3;
@@ -64,7 +64,7 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(153, 83);
+            this.label2.Location = new System.Drawing.Point(39, 62);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(63, 17);
             this.label2.TabIndex = 2;
@@ -72,7 +72,7 @@
             // 
             // btnTinh
             // 
-            this.btnTinh.Location = new System.Drawing.Point(223, 176);
+            this.btnTinh.Location = new System.Drawing.Point(109, 155);
             this.btnTinh.Name = "btnTinh";
             this.btnTinh.Size = new System.Drawing.Size(75, 23);
             this.btnTinh.TabIndex = 4;
@@ -83,7 +83,7 @@
             // lblKetQua
             // 
             this.lblKetQua.AutoSize = true;
-            this.lblKetQua.Location = new System.Drawing.Point(156, 129);
+            this.lblKetQua.Location = new System.Drawing.Point(42, 108);
             this.lblKetQua.Name = "lblKetQua";
             this.lblKetQua.Size = new System.Drawing.Size(60, 17);
             this.lblKetQua.TabIndex = 5;
@@ -92,14 +92,14 @@
             // 
             // txtKetQua
             // 
-            this.txtKetQua.Location = new System.Drawing.Point(223, 124);
+            this.txtKetQua.Location = new System.Drawing.Point(109, 103);
             this.txtKetQua.Name = "txtKetQua";
             this.txtKetQua.Size = new System.Drawing.Size(194, 22);
             this.txtKetQua.TabIndex = 6;
             // 
             // btnThoat
             // 
-            this.btnThoat.Location = new System.Drawing.Point(342, 176);
+            this.btnThoat.Location = new System.Drawing.Point(228, 155);
             this.btnThoat.Name = "btnThoat";
             this.btnThoat.Size = new System.Drawing.Size(75, 23);
             this.btnThoat.TabIndex = 7;
@@ -111,7 +111,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(374, 228);
             this.Controls.Add(this.btnThoat);
             this.Controls.Add(this.txtKetQua);
             this.Controls.Add(this.lblKetQua);

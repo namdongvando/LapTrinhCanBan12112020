@@ -10,3 +10,5 @@ C:\Users\NN\Desktop\Share\LapTrinhCanBan12112020\Code\WinForm1\obj\Debug\WinForm
 C:\Users\NN\Desktop\Share\LapTrinhCanBan12112020\Code\WinForm1\obj\Debug\WinForm1.Form1.resources
 C:\Users\NN\Desktop\Share\LapTrinhCanBan12112020\Code\WinForm1\obj\Debug\WinForm1.FormDangNhap.resources
 C:\Users\NN\Desktop\Share\LapTrinhCanBan12112020\Code\WinForm1\obj\Debug\WinForm1.FormTongHaiSo.resources
+C:\Users\NN\Desktop\Share\LapTrinhCanBan12112020\Code\WinForm1\obj\Debug\WinForm1.FormMain.resources
+C:\Users\NN\Desktop\Share\LapTrinhCanBan12112020\Code\WinForm1\obj\Debug\WinForm1.FormPhuongTrinhBac1.resources
