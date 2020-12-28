@@ -53,12 +53,28 @@ namespace WinForm1
         private void pTBậc1ToolStripMenuItem_Click(object sender, EventArgs e)
         {
             Form formPTB1 = new FormPhuongTrinhBac1();
+            formPTB1.MdiParent = this;
             formPTB1.Show();
         }
 
         private void pTBậc2ToolStripMenuItem_Click(object sender, EventArgs e)
         {
             Form formPTB1 = new FormPhuongTrinhBac2();
+            formPTB1.MdiParent = this;
+            formPTB1.Show();
+        }
+
+        private void hinhTronToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Form formPTB1 = new FormHinhTron();
+            formPTB1.MdiParent = this;
+            formPTB1.Show();
+        }
+
+        private void quanLýSinhVienToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Form formPTB1 = new FormQuanLySinhVien();
+            formPTB1.MdiParent = this;
             formPTB1.Show();
         }
     }

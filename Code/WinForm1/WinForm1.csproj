@@ -58,6 +58,12 @@
     <Compile Include="FormDangNhap.Designer.cs">
       <DependentUpon>FormDangNhap.cs</DependentUpon>
     </Compile>
+    <Compile Include="FormHinhTron.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormHinhTron.Designer.cs">
+      <DependentUpon>FormHinhTron.cs</DependentUpon>
+    </Compile>
     <Compile Include="FormMain.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -76,23 +82,34 @@
     <Compile Include="FormPhuongTrinhBac2.Designer.cs">
       <DependentUpon>FormPhuongTrinhBac2.cs</DependentUpon>
     </Compile>
+    <Compile Include="FormQuanLySinhVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormQuanLySinhVien.Designer.cs">
+      <DependentUpon>FormQuanLySinhVien.cs</DependentUpon>
+    </Compile>
     <Compile Include="FormTongHaiSo.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="FormTongHaiSo.Designer.cs">
       <DependentUpon>FormTongHaiSo.cs</DependentUpon>
     </Compile>
+    <Compile Include="HinhTron.cs" />
     <Compile Include="HinhVuong.cs" />
     <Compile Include="IHInhHoc.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="PTB1.cs" />
     <Compile Include="PTB2.cs" />
+    <Compile Include="QuanLySinhVien\SinhVien.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FormDangNhap.resx">
       <DependentUpon>FormDangNhap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormHinhTron.resx">
+      <DependentUpon>FormHinhTron.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FormMain.resx">
       <DependentUpon>FormMain.cs</DependentUpon>
@@ -102,6 +119,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="FormPhuongTrinhBac2.resx">
       <DependentUpon>FormPhuongTrinhBac2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormQuanLySinhVien.resx">
+      <DependentUpon>FormQuanLySinhVien.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FormTongHaiSo.resx">
       <DependentUpon>FormTongHaiSo.cs</DependentUpon>
@@ -131,6 +151,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\LogoNN.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HinhTron.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
