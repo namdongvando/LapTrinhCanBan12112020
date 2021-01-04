@@ -1,0 +1,10 @@
+C:\Users\NN\Desktop\Share\LapTrinhCanBan12112020\Code\WinformDatabase\bin\Debug\WinformDatabase.exe.config
+C:\Users\NN\Desktop\Share\LapTrinhCanBan12112020\Code\WinformDatabase\bin\Debug\WinformDatabase.exe
+C:\Users\NN\Desktop\Share\LapTrinhCanBan12112020\Code\WinformDatabase\bin\Debug\WinformDatabase.pdb
+C:\Users\NN\Desktop\Share\LapTrinhCanBan12112020\Code\WinformDatabase\obj\Debug\WinformDatabase.csprojAssemblyReference.cache
+C:\Users\NN\Desktop\Share\LapTrinhCanBan12112020\Code\WinformDatabase\obj\Debug\WinformDatabase.Form1.resources
+C:\Users\NN\Desktop\Share\LapTrinhCanBan12112020\Code\WinformDatabase\obj\Debug\WinformDatabase.Properties.Resources.resources
+C:\Users\NN\Desktop\Share\LapTrinhCanBan12112020\Code\WinformDatabase\obj\Debug\WinformDatabase.csproj.GenerateResource.cache
+C:\Users\NN\Desktop\Share\LapTrinhCanBan12112020\Code\WinformDatabase\obj\Debug\WinformDatabase.csproj.CoreCompileInputs.cache
+C:\Users\NN\Desktop\Share\LapTrinhCanBan12112020\Code\WinformDatabase\obj\Debug\WinformDatabase.exe
+C:\Users\NN\Desktop\Share\LapTrinhCanBan12112020\Code\WinformDatabase\obj\Debug\WinformDatabase.pdb

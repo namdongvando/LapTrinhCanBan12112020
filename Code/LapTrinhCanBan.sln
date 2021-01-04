@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuanLyHangHoa", "QuanLyHang
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinForm1", "WinForm1\WinForm1.csproj", "{A333649A-D50F-4E6E-AF3B-59EEBCE66E4F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinformDatabase", "WinformDatabase\WinformDatabase.csproj", "{FBCC1B29-6153-4016-B120-5A73B5E73121}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{A333649A-D50F-4E6E-AF3B-59EEBCE66E4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A333649A-D50F-4E6E-AF3B-59EEBCE66E4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A333649A-D50F-4E6E-AF3B-59EEBCE66E4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBCC1B29-6153-4016-B120-5A73B5E73121}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBCC1B29-6153-4016-B120-5A73B5E73121}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBCC1B29-6153-4016-B120-5A73B5E73121}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBCC1B29-6153-4016-B120-5A73B5E73121}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
