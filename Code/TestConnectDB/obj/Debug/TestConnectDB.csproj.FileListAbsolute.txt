@@ -1,0 +1,10 @@
+C:\Users\NN\Desktop\Share\LapTrinhCanBan12112020\Code\TestConnectDB\bin\Debug\TestConnectDB.exe.config
+C:\Users\NN\Desktop\Share\LapTrinhCanBan12112020\Code\TestConnectDB\bin\Debug\TestConnectDB.exe
+C:\Users\NN\Desktop\Share\LapTrinhCanBan12112020\Code\TestConnectDB\bin\Debug\TestConnectDB.pdb
+C:\Users\NN\Desktop\Share\LapTrinhCanBan12112020\Code\TestConnectDB\obj\Debug\TestConnectDB.csprojAssemblyReference.cache
+C:\Users\NN\Desktop\Share\LapTrinhCanBan12112020\Code\TestConnectDB\obj\Debug\TestConnectDB.Form1.resources
+C:\Users\NN\Desktop\Share\LapTrinhCanBan12112020\Code\TestConnectDB\obj\Debug\TestConnectDB.Properties.Resources.resources
+C:\Users\NN\Desktop\Share\LapTrinhCanBan12112020\Code\TestConnectDB\obj\Debug\TestConnectDB.csproj.GenerateResource.cache
+C:\Users\NN\Desktop\Share\LapTrinhCanBan12112020\Code\TestConnectDB\obj\Debug\TestConnectDB.csproj.CoreCompileInputs.cache
+C:\Users\NN\Desktop\Share\LapTrinhCanBan12112020\Code\TestConnectDB\obj\Debug\TestConnectDB.exe
+C:\Users\NN\Desktop\Share\LapTrinhCanBan12112020\Code\TestConnectDB\obj\Debug\TestConnectDB.pdb

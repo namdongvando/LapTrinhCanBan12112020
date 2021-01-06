@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinForm1", "WinForm1\WinFor
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinformDatabase", "WinformDatabase\WinformDatabase.csproj", "{FBCC1B29-6153-4016-B120-5A73B5E73121}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestConnectDB", "TestConnectDB\TestConnectDB.csproj", "{72B905C7-9425-45C9-9FCB-5D3E4013061E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{FBCC1B29-6153-4016-B120-5A73B5E73121}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FBCC1B29-6153-4016-B120-5A73B5E73121}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FBCC1B29-6153-4016-B120-5A73B5E73121}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72B905C7-9425-45C9-9FCB-5D3E4013061E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72B905C7-9425-45C9-9FCB-5D3E4013061E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72B905C7-9425-45C9-9FCB-5D3E4013061E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72B905C7-9425-45C9-9FCB-5D3E4013061E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
