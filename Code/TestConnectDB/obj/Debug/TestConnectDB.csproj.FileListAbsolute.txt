@@ -8,3 +8,5 @@ C:\Users\NN\Desktop\Share\LapTrinhCanBan12112020\Code\TestConnectDB\obj\Debug\Te
 C:\Users\NN\Desktop\Share\LapTrinhCanBan12112020\Code\TestConnectDB\obj\Debug\TestConnectDB.csproj.CoreCompileInputs.cache
 C:\Users\NN\Desktop\Share\LapTrinhCanBan12112020\Code\TestConnectDB\obj\Debug\TestConnectDB.exe
 C:\Users\NN\Desktop\Share\LapTrinhCanBan12112020\Code\TestConnectDB\obj\Debug\TestConnectDB.pdb
+C:\Users\NN\Desktop\Share\LapTrinhCanBan12112020\Code\TestConnectDB\obj\Debug\TestConnectDB.FormThemLoai.resources
+C:\Users\NN\Desktop\Share\LapTrinhCanBan12112020\Code\TestConnectDB\obj\Debug\TestConnectDB.FormSuaLoai.resources

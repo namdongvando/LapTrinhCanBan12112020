@@ -91,7 +91,12 @@ namespace TestConnectDB
             int maLoai = int.Parse(dgvDanhSachLoai.Rows[e.RowIndex].Cells["MaLoai"].Value.ToString());
             Loai loai = new Loai();
             Loai loaiTim = loai.GetLoaiById(maLoai);
-            SetInputForm(loaiTim);
+            Form formSua = new FormSuaLoai(maLoai);
+            var isOK = formSua.ShowDialog();
+            if (isOK == DialogResult.OK) {
+                LoadDanhSachLoai();
+            }
+            //  SetInputForm(loaiTim);
         }
 
         private void SetInputForm(Loai loaiTim)
@@ -108,12 +113,25 @@ namespace TestConnectDB
             {
                 Loai loai = GetInputForm();
                 loai.SuaLoai();
+                loai.SuaLoai();
+                loai.SuaLoai();
+                loai.SuaLoai();
+                loai.SuaLoai();
                 LoadDanhSachLoai();
 
             }
             catch (Exception ex)
             {
                 MessageBox.Show(ex.Message);
+            }
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            Form formThem = new FormThemLoai();
+            var isOK = formThem.ShowDialog();
+            if (isOK == DialogResult.OK) {
+                LoadDanhSachLoai();
             }
         }
     }

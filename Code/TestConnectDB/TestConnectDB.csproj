@@ -53,11 +53,29 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="FormSuaLoai.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormSuaLoai.Designer.cs">
+      <DependentUpon>FormSuaLoai.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormThemLoai.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormThemLoai.Designer.cs">
+      <DependentUpon>FormThemLoai.cs</DependentUpon>
+    </Compile>
     <Compile Include="Loai.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormSuaLoai.resx">
+      <DependentUpon>FormSuaLoai.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormThemLoai.resx">
+      <DependentUpon>FormThemLoai.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -80,6 +98,27 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="bin\Debug\images\Accept.png" />
+    <Content Include="bin\Debug\images\agenda_1.jpg" />
+    <Content Include="bin\Debug\images\Alarm.png" />
+    <Content Include="bin\Debug\images\Anchor.png" />
+    <Content Include="bin\Debug\images\Bell.png" />
+    <Content Include="bin\Debug\images\Best.png" />
+    <Content Include="bin\Debug\images\Billboard.png" />
+    <Content Include="bin\Debug\images\Bomb.png" />
+    <Content Include="bin\Debug\images\Brick house.png" />
+    <Content Include="bin\Debug\images\Bricks.png" />
+    <Content Include="bin\Debug\images\Buddy.png" />
+    <Content Include="bin\Debug\images\Certificate.png" />
+    <Content Include="bin\Debug\images\Dice.png" />
+    <Content Include="bin\Debug\images\Dollar.png" />
+    <Content Include="bin\Debug\images\Favourites.png" />
+    <Content Include="bin\Debug\images\Funny.png" />
+    <Content Include="bin\Debug\images\Heart.png" />
+    <Content Include="bin\Debug\images\Microsoft.png" />
+    <Content Include="bin\Debug\images\Unlock.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

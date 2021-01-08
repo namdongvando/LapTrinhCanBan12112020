@@ -83,7 +83,7 @@ namespace TestConnectDB
 TenLoai = N'{0}',
 MoTa = N'{1}',
 Hinh = N'{2}'
-where MaLoai = {3})", TenLoai, MoTa, Hinh,MaLoai);
+where MaLoai = {3}", TenLoai, MoTa, Hinh,MaLoai);
             this.InsertQuery(sql);
         }
     }
