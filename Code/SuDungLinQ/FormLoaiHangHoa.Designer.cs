@@ -84,6 +84,7 @@
             this.button2.TabIndex = 31;
             this.button2.Text = "Sửa";
             this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
             // button1
             // 
@@ -93,6 +94,7 @@
             this.button1.TabIndex = 30;
             this.button1.Text = "Xóa";
             this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // label4
             // 
@@ -177,6 +179,7 @@
             this.btnTimKiem.TabIndex = 20;
             this.btnTimKiem.Text = "Tìm Kiếm";
             this.btnTimKiem.UseVisualStyleBackColor = true;
+            this.btnTimKiem.Click += new System.EventHandler(this.btnTimKiem_Click);
             // 
             // txtTuKhoa
             // 
@@ -184,6 +187,7 @@
             this.txtTuKhoa.Name = "txtTuKhoa";
             this.txtTuKhoa.Size = new System.Drawing.Size(164, 20);
             this.txtTuKhoa.TabIndex = 19;
+            this.txtTuKhoa.TextChanged += new System.EventHandler(this.txtTuKhoa_TextChanged);
             // 
             // dgvDanhSachLoai
             // 
@@ -192,6 +196,7 @@
             this.dgvDanhSachLoai.Name = "dgvDanhSachLoai";
             this.dgvDanhSachLoai.Size = new System.Drawing.Size(455, 337);
             this.dgvDanhSachLoai.TabIndex = 18;
+            this.dgvDanhSachLoai.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvDanhSachLoai_CellContentClick);
             // 
             // FormLoaiHangHoa
             // 

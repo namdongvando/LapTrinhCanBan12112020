@@ -9,3 +9,5 @@ C:\Users\NN\Desktop\Share\LapTrinhCanBan12112020\Code\SuDungLinQ\obj\Debug\SuDun
 C:\Users\NN\Desktop\Share\LapTrinhCanBan12112020\Code\SuDungLinQ\obj\Debug\SuDungLinQ.exe
 C:\Users\NN\Desktop\Share\LapTrinhCanBan12112020\Code\SuDungLinQ\obj\Debug\SuDungLinQ.pdb
 C:\Users\NN\Desktop\Share\LapTrinhCanBan12112020\Code\SuDungLinQ\obj\Debug\SuDungLinQ.FormLoaiHangHoa.resources
+C:\Users\NN\Desktop\Share\LapTrinhCanBan12112020\Code\SuDungLinQ\obj\Debug\SuDungLinQ.FormNhaCungCap.resources
+C:\Users\NN\Desktop\Share\LapTrinhCanBan12112020\Code\SuDungLinQ\obj\Debug\SuDungLinQ.FormHangHoa.resources
