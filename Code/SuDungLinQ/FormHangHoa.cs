@@ -119,5 +119,24 @@ namespace SuDungLinQ
 
 
         }
+
+        private void btnThemHangHoa_Click(object sender, EventArgs e)
+        {
+            Form formThemHH = new FormThemHangHoa();
+            var isOk =  formThemHH.ShowDialog();
+            if (isOk == DialogResult.OK)
+                LoadDanhSachHangHoa();
+        }
+
+        private void dgvDanhSachHangHoa_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+            int maHangHoa = int.Parse(dgvDanhSachHangHoa
+                .Rows[e.RowIndex].Cells["MaHH"].Value.ToString());
+            Form formSua = new FromSuaSanPham(maHangHoa);
+            var isOK = formSua.ShowDialog();
+            if (isOK == DialogResult.OK)
+                LoadDanhSachHangHoa();
+
+        }
     }
 }

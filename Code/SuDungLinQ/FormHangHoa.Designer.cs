@@ -43,6 +43,7 @@
             this.dgvDanhSachHangHoa.Name = "dgvDanhSachHangHoa";
             this.dgvDanhSachHangHoa.Size = new System.Drawing.Size(776, 382);
             this.dgvDanhSachHangHoa.TabIndex = 0;
+            this.dgvDanhSachHangHoa.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvDanhSachHangHoa_CellContentClick);
             // 
             // btnTim
             // 
@@ -70,6 +71,7 @@
             this.btnThemHangHoa.TabIndex = 3;
             this.btnThemHangHoa.Text = "Thêm Hàng Hóa";
             this.btnThemHangHoa.UseVisualStyleBackColor = true;
+            this.btnThemHangHoa.Click += new System.EventHandler(this.btnThemHangHoa_Click);
             // 
             // cbbLoai
             // 

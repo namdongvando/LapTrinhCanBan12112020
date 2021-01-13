@@ -71,13 +71,13 @@
       <Column Name="MaHH" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
       <Column Name="TenHH" Type="System.String" DbType="NVarChar(40) NOT NULL" CanBeNull="false" />
       <Column Name="MaLoai" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
-      <Column Name="MoTaDonVi" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="MoTaDonVi" Type="System.String" DbType="Text" CanBeNull="true" UpdateCheck="Never" />
       <Column Name="DonGia" Type="System.Double" DbType="Float" CanBeNull="true" />
-      <Column Name="Hinh" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Hinh" Type="System.String" DbType="Text" CanBeNull="true" UpdateCheck="Never" />
       <Column Name="NgaySX" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
       <Column Name="GiamGia" Type="System.Double" DbType="Float NOT NULL" CanBeNull="false" />
       <Column Name="SoLanXem" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
-      <Column Name="MoTa" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="MoTa" Type="System.String" DbType="NText" CanBeNull="true" UpdateCheck="Never" />
       <Column Name="MaNCC" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
       <Association Name="HangHoa_BanBe" Member="BanBes" ThisKey="MaHH" OtherKey="MaHH" Type="BanBe" />
       <Association Name="HangHoa_YeuThich" Member="YeuThiches" ThisKey="MaHH" OtherKey="MaHH" Type="YeuThich" />

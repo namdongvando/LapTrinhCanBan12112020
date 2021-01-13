@@ -1680,7 +1680,7 @@ namespace SuDungLinQ
 			}
 		}
 		
-		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_MoTaDonVi", DbType="NVarChar(50)")]
+		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_MoTaDonVi", DbType="Text", UpdateCheck=UpdateCheck.Never)]
 		public string MoTaDonVi
 		{
 			get
@@ -1720,7 +1720,7 @@ namespace SuDungLinQ
 			}
 		}
 		
-		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_Hinh", DbType="NVarChar(50)")]
+		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_Hinh", DbType="Text", UpdateCheck=UpdateCheck.Never)]
 		public string Hinh
 		{
 			get
@@ -1800,7 +1800,7 @@ namespace SuDungLinQ
 			}
 		}
 		
-		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_MoTa", DbType="NVarChar(MAX)")]
+		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_MoTa", DbType="NText", UpdateCheck=UpdateCheck.Never)]
 		public string MoTa
 		{
 			get
