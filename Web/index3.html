@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Su dung javascript</title>
+ <script type="text/javascript" src="./jquery-3.5.1.min.js"></script>
+</head>
+<body>
+
+<input type="" onblur="alert(this.value)" value="abc" name="">
+
+<button onclick="alert('xin chao')" >Click</button>
+
+
+<input type="" id="HoTen" name="">
+<button  onclick="XinChao()" >Gui</button>
+
+<button id="Gui" >Gửi JS</button>
+
+
+<script type="text/javascript">
+	
+	//alert("abc");
+
+	function XinChao() {
+		var hoTen = document.getElementById("HoTen");
+		alert("XinChao" + hoTen.value);
+	}
+
+	$(document).ready(function(){
+
+		//alert("asdas");
+
+		$("#Gui").click(function(){
+			var hoTen = $("#HoTen").val();
+			alert(hoTen);
+			$("#HoTen").hide();
+		});
+
+	});
+
+
+</script>
+
+</body>
+</html>

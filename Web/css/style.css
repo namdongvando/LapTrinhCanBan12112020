@@ -1,0 +1,91 @@
+
+div{
+			height: 200px;
+			width: 200px;
+			background-color: #aaa;
+			margin: 10px;
+
+		}
+		#SanPham{
+			min-height: 500px;
+		}
+		#HangHoa{
+			background-color: green;
+		}
+		#Loai{
+			background-color: red;
+		}
+		#Loai{
+			background-color: #0f0;
+		}
+		#Ncc{
+			background-color: #00f;
+		}
+		.VienDo{
+			border: 3px solid red;
+		}
+		.mt-20{
+			margin-top: 20px;
+		}
+		.mr-20{
+			margin-right: 20px;
+		}
+		.ml-20{
+			margin-left: 20px;
+		}
+		.mb-20{
+			margin-bottom: 20px;
+		}
+		*{
+			transition: all 0.5s;
+		}
+
+		.Menu ul,.Menu{
+			list-style-type: none;
+			margin: 0px;
+			padding: 0px;
+			display: flex;
+		}
+		.Menu li{
+			width: 50%;
+		}
+		.Menu li a{
+			text-align: center;
+			background-color: #000;
+			color: #fff;
+			padding: 15px;
+			text-decoration: none;
+			text-transform: uppercase;
+			display: block;
+		}
+		.Menu li.active a,
+		.Menu li a:hover{
+			background-color: gold;
+			color: #000;
+		}
+		.Menu ul{
+			display: block;
+			width: 250px;
+			background-color: #aaa;
+		}
+		.Menu ul li{
+			width: 100%;
+		}
+		.Menu ul li a{
+			text-align: left;
+		}
+		.Menu li{
+			position: relative;
+		}
+		.Menu li ul{
+			display: none;
+			position: absolute;
+		}
+		.Menu ul ul{
+			left: 100%;
+			top: 0px;
+		}
+
+		.Menu li:hover > ul{
+			display: block;	
+		}
